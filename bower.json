@@ -1,0 +1,17 @@
+{
+  "name": "flex-style",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "张展亮 <zzlwte@email.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
